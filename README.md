@@ -2,5 +2,11 @@
 
                                     Hello, I'm Madhura Gajanan Barve 👋
 
-🚀 Welcome to my GitHub profile! I'm a passionate Software developer as well as frontend developer, dedicated to crafting engaging and user-centric application experiences. My true passion lies in developing software applications and creating captivating frontend interfaces. My journey in the world of development has equipped me with a core Java and  robust skill set in HTML, CSS, JavaScript, React.js and SQL.
+🚀 Welcome to my GitHub profile!
+
+ I am a results-driven Java Spring Boot Developer with 1+ years of experience in developing scalable web applications and
+ microservices. Skilled in RESTful APIs, Microservices architectures, and database optimization. Experienced in applying
+ Agile methodologies, ensuring code quality, and collaborating with cross-functional teams for seamless project delivery
+ and continuous integration. Passionate about continuous learning and leveraging innovative technologies to improve
+ efficiency and user experience. 
 
